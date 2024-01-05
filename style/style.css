@@ -34,9 +34,9 @@ nav{
 
 }
 .section-abc{
-    color: #757575;
+    color: #0004d7;
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
 
 }
 
@@ -94,10 +94,25 @@ nav a{
 }
 
 /*protho pard*/
-
+main{
+width: 1140px;
+margin: 0 auto;
+}
 .about{
     padding: 130px;
     border-radius: 10px;
-    background: #fff8f3;
+    background: #f8d9dc;
     margin: 130px 0;
+}
+
+
+.title-info-con{
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
+}
+#what-id{
+    padding: 30px 150px;
 }
