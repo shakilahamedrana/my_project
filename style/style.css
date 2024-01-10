@@ -139,5 +139,60 @@ main section{
     color: #757575;
     font-size: 30px;
     font-weight: 700;
+}
 
+
+.resume-column .resumi-item{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+.resume-container{
+    display: flex;
+    gap: 60px;
+
+    
+}
+
+.resumi-item .resume-item-info{
+    margin-top: 0px;
+    margin-bottom: 20pxs;
+    color: aqua;
+}
+.resume-itme-dis, .resume-item-info{
+    color: #757575;
+
+}
+
+.resume-container hr{
+    margin: 30px;
+}
+.resume-container hr{
+    margin: 30px;
+}
+
+.downlode-cv{
+    text-align: center;
+}
+
+.downlode-cv .btn-primary{
+    background-color: #fd6e0a;
+    font-size: 28px;
+    padding: 20px;
+
+}
+
+.downlode-cv .btn-primary:hover{
+    background-color: aqua;
+    color: red;
+    border-radius: 30px;
+}
+
+footer{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 130px 200px;
+    margin-top: 100px;
 }
